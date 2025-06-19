@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/telegram-booking-app/static/css/main.d18f6ec2.css",
-    "main.js": "/telegram-booking-app/static/js/main.333c8cbd.js",
+    "main.css": "/telegram-booking-app/static/css/main.fbdbac48.css",
+    "main.js": "/telegram-booking-app/static/js/main.a6fa78e8.js",
     "static/js/453.a90f20c7.chunk.js": "/telegram-booking-app/static/js/453.a90f20c7.chunk.js",
     "index.html": "/telegram-booking-app/index.html",
-    "main.d18f6ec2.css.map": "/telegram-booking-app/static/css/main.d18f6ec2.css.map",
-    "main.333c8cbd.js.map": "/telegram-booking-app/static/js/main.333c8cbd.js.map",
+    "main.fbdbac48.css.map": "/telegram-booking-app/static/css/main.fbdbac48.css.map",
+    "main.a6fa78e8.js.map": "/telegram-booking-app/static/js/main.a6fa78e8.js.map",
     "453.a90f20c7.chunk.js.map": "/telegram-booking-app/static/js/453.a90f20c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d18f6ec2.css",
-    "static/js/main.333c8cbd.js"
+    "static/css/main.fbdbac48.css",
+    "static/js/main.a6fa78e8.js"
   ]
 }
